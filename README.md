@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diego Moura. 👋
 <img align="right" alt="Moura-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/52717641/230969671-747c878b-089f-4160-afa2-86a3c8ca5b15.jpg">
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Django com Python
 - 📫 Contato: mouradiego454@gmail.com
 - 😄 Pronomes: Moura
 - ⚡ Curiosidade: ...
