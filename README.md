@@ -1,10 +1,14 @@
 ### Olá! Eu sou o Diego Moura. 👋
 <img align="right" alt="Moura-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/52717641/230969671-747c878b-089f-4160-afa2-86a3c8ca5b15.jpg">
 
-- 🌱 Estudando Django com Python
-- 📫 Contato: mouradiego454@gmail.com
 - 😄 Pronomes: Moura
-- ⚡ Curiosidade: ...
+- ⚡ Curiosidade: Sou um desenvolvedor apaixonado por tecnologia e inovação. 
+- 🌱 Atualmente estou focado em Desenvolvimento ASP.NET MVC e sempre buscando novos desafios.
+- 📚 Sou formado em Licenciatura em Informática pela UDESC e pela mesma em fase de conclusão em Tecnologia em Análise e Desenvolvimento de Sistemas e acredito na educação contínua como chave para o sucesso profissional.
+- 🔍 Em meu repositório, você encontrará projetos que refletem minha jornada de aprendizado e minha paixão por resolver problemas através da tecnologia.
+- 🤝 Estou aberto a colaborações e oportunidades que me permitam crescer profissionalmente e contribuir para a comunidade de desenvolvedores.
+- 📫 Contato: mouradiego454@gmail.com
+
 
 
 <div style="display: inline_block"><br>
